@@ -40,7 +40,7 @@ print(c) #output -246
 #() paranthesis has the order of operations
 
 d=5+(12**6)
-print
+print(d)
 
 
 
