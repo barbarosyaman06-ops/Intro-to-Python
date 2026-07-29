@@ -27,4 +27,3 @@ print(fibonacci)
 
 #importance of temp variable!
 
-     
