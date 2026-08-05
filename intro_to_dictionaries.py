@@ -15,4 +15,14 @@ person=dict(name="John", age=30, city="New York")
 print(f"name: {person['name']}, age: {person['age']}, city: {person['city']}")
 
 my_keys=car.keys()
+
 print(my_keys)
+
+car["year"]=2020
+car["country"]="USA"
+
+print(my_keys) 
+
+my_new_value=car.values()
+
+print(my_new_value)
