@@ -6,3 +6,4 @@ def sum_recursion(n):
     return result
 
 print(sum_recursion(7))
+
