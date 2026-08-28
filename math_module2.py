@@ -77,3 +77,15 @@ print(math.isinf(math.inf))
 print(math.isnan(math.nan))
 
 print(math.log(2,4))
+
+print(math.log10(10))
+
+print(math.log1p(9))
+
+print(math.log2(4))
+
+print(math.perm(3))
+
+print(math.pow(7,2))
+
+
