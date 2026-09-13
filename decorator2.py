@@ -32,19 +32,6 @@ def timer_decorator(func):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 @timer_decorator
 def slow_function(n):
     total=sum(range(n))
